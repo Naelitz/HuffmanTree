@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Structure.cpp
+  Node.cpp
+  Huff.cpp
+h:\eecs2510-naelitzdavid\huffmantree\huffmantree\huff.cpp(147): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+h:\eecs2510-naelitzdavid\huffmantree\huffmantree\huff.cpp(161): warning C4101: 'c': unreferenced local variable
+  Generating Code...
+h:\eecs2510-naelitzdavid\huffmantree\huffmantree\huff.cpp(139): warning C4715: 'ValidateArguments': not all control paths return a value
+  HuffmanTree.vcxproj -> H:\EECS2510-NaelitzDavid\HuffmanTree\x64\Debug\Huff.exe
+  HuffmanTree.vcxproj -> H:\EECS2510-NaelitzDavid\HuffmanTree\x64\Debug\Huff.pdb (Full PDB)
