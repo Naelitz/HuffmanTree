@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HuffmanTree.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Huff.cpp
+h:\eecs2510-naelitzdavid\huffman\huffmantree\huff.cpp(147): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+h:\eecs2510-naelitzdavid\huffman\huffmantree\huff.cpp(161): warning C4101: 'c': unreferenced local variable
+h:\eecs2510-naelitzdavid\huffman\huffmantree\huff.cpp(139): warning C4715: 'ValidateArguments': not all control paths return a value
+  HuffmanTree.vcxproj -> H:\EECS2510-NaelitzDavid\Huffman\Debug\Huff.exe
+  HuffmanTree.vcxproj -> H:\EECS2510-NaelitzDavid\Huffman\Debug\Huff.pdb (Full PDB)
